@@ -1,2 +1,2 @@
-# Mymap_Sumit
+# sumitmilan6.github.io
 Places visited by Sumit Kumar
